@@ -22,4 +22,6 @@ pip install ssbjkadmos
 Once you set up your Python environment, you can integrate the tools in RCE. Follow the descriptions in 
 ```./doc/rce-tool-integration.pdf```.
 
+To get an impression of the tools in a workflow, see examples in ```./example/html/```.
+
 ![SSBJ Workflow](./static/xdsm_mdax_SSBJ_OPT.svg "SSBJ Optimization Workflow Example")
