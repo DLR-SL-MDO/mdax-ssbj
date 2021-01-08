@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataSchema>
+    <aircraft>
+        <geometry>
+            <Theta>0.981840694937</Theta>
+        </geometry>
+        <other>
+            <sigma1>1.04539873863</sigma1>
+            <sigma2>1.03026582575</sigma2>
+            <sigma3>1.02269936931</sigma3>
+            <sigma4>1.01815949545</sigma4>
+            <sigma5>1.01513291288</sigma5>
+            <dpdx>1.0</dpdx>
+            <DT>-0.53513940269</DT>
+        </other>
+    </aircraft>
+    <reference>
+        <ESF>1.33630866641</ESF>
+        <Temp>0.9375</Temp>
+    </reference>
+    <scaledData>
+        <sigma1>
+            <scaler>1.0</scaler>
+        </sigma1>
+        <sigma2>
+            <scaler>1.0</scaler>
+        </sigma2>
+        <sigma3>
+            <scaler>1.0</scaler>
+        </sigma3>
+        <sigma4>
+            <scaler>1.0</scaler>
+        </sigma4>
+        <sigma5>
+            <scaler>1.0</scaler>
+        </sigma5>
+        <Theta>
+            <scaler>1.0</scaler>
+        </Theta>
+        <dpdx>
+            <scaler>1.0</scaler>
+        </dpdx>
+        <ESF>
+            <scaler>1.0</scaler>
+        </ESF>
+        <DT>
+            <scaler>1.0</scaler>
+        </DT>
+        <Temp>
+            <scaler>1.0</scaler>
+        </Temp>
+    </scaledData>
+
+</dataSchema>

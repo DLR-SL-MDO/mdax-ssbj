@@ -1,0 +1,18 @@
+<dataSchema>
+  <aircraft>
+    <weight>
+      <WF/>
+      <WT/>
+    </weight>
+    <other>
+      <sigma1/>
+      <sigma2/>
+      <sigma3/>
+      <sigma4/>
+      <sigma5/>
+    </other>
+    <geometry>
+      <Theta/>
+    </geometry>
+  </aircraft>
+</dataSchema>

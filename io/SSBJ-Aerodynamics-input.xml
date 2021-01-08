@@ -1,0 +1,23 @@
+<dataSchema>
+  <aircraft>
+    <geometry>
+      <tc/>
+      <AR/>
+      <Lambda/>
+      <Sref/>
+      <Theta/>
+    </geometry>
+    <weight>
+      <WT/>
+    </weight>
+    <other>
+      <Cf/>
+      <CDmin/>
+    </other>
+  </aircraft>
+  <reference>
+    <h/>
+    <M/>
+    <ESF/>
+  </reference>
+</dataSchema>

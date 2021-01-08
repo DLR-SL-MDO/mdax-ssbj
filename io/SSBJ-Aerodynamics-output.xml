@@ -1,0 +1,10 @@
+<dataSchema>
+  <aircraft>
+    <other>
+      <L/>
+      <D/>
+      <fin/>
+      <dpdx/>
+    </other>
+  </aircraft>
+</dataSchema>

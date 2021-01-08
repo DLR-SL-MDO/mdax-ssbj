@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataSchema>
+  <aircraft>
+    <weight>
+      <WF>7306.202621238479</WF>
+      <WT>63609.57408686176</WT>
+    </weight>
+    <other>
+      <sigma1>1.04539873862981</sigma1>
+      <sigma2>1.0302658257532067</sigma2>
+      <sigma3>1.0226993693149051</sigma3>
+      <sigma4>1.018159495451924</sigma4>
+      <sigma5>1.0151329128766033</sigma5>
+    </other>
+    <geometry>
+      <Theta>0.9818405304567187</Theta>
+    </geometry>
+  </aircraft>
+</dataSchema>

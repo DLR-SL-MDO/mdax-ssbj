@@ -1,0 +1,21 @@
+<dataSchema>
+  <aircraft>
+    <geometry>
+      <tc/>
+      <AR/>
+      <Lambda/>
+      <Sref/>
+      <lambda/>
+      <section/>
+    </geometry>
+    <other>
+      <L/>
+      <Nz/>
+    </other>
+    <weight>
+      <WE/>
+      <WO/>
+      <WFO/>
+    </weight>
+  </aircraft>
+</dataSchema>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataSchema>
+    <aircraft>
+        <other>
+            <D>12963.7441822</D>
+            <T>0.2</T>
+        </other>
+        <weight>
+            <WBE>4360.0</WBE>
+        </weight>
+    </aircraft>
+    <reference>
+        <M>1.6</M>
+        <h>45000.0</h>
+    </reference>
+</dataSchema>

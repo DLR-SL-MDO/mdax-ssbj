@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataSchema>
+  <reference>
+    <Temp>0.9375</Temp>
+    <ESF>1.336308666406904</ESF>
+  </reference>
+  <aircraft>
+    <other>
+      <SFC>1.3043532097670398</SFC>
+      <DT>-0.5351394026900995</DT>
+    </other>
+    <weight>
+      <WE>17734.129202206102</WE>
+    </weight>
+  </aircraft>
+</dataSchema>

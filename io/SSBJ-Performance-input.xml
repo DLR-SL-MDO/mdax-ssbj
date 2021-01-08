@@ -1,0 +1,16 @@
+<dataSchema>
+  <reference>
+    <h/>
+    <M/>
+  </reference>
+  <aircraft>
+    <other>
+      <fin/>
+      <SFC/>
+    </other>
+    <weight>
+      <WT/>
+      <WF/>
+    </weight>
+  </aircraft>
+</dataSchema>

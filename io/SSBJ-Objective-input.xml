@@ -1,0 +1,12 @@
+<dataSchema>
+  <aircraft>
+    <other>
+      <R/>
+    </other>
+  </aircraft>
+  <scaledData>
+    <R>
+      <scaler/>
+    </R>
+  </scaledData>
+</dataSchema>
