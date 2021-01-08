@@ -1,0 +1,8 @@
+name: ssbj
+channels:
+  - dlr-sc
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+
