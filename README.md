@@ -24,4 +24,6 @@ the [docs](./doc/rce-tool-integration.pdf).
 
 To get an impression of the tools in a generated workflow, see [examples](./example/html).
 
+For comments or feedback contact us at [andreas.pagerisueno@dlr.de](mailto:andreas.pagerisueno@dlr.de).
+
 ![SSBJ Workflow](./static/xdsm_mdax_SSBJ_OPT.svg "SSBJ Optimization Workflow Example")
